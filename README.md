@@ -103,3 +103,12 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+
+### Student notes
+## Commmands used to test the functions above
+special <- makeVector()
+special$set(c(1,12,4))
+cachemean(special)
+cachemean(special)
+
